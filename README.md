@@ -1,2 +1,3 @@
-# sharecaster
-Stream web player with account and management
+# shareCaster
+
+⚠️ Work in progress
